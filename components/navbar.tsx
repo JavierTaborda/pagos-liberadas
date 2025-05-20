@@ -1,14 +1,6 @@
 "use client";
 import {
-  BadgeDollarSign,
-  CircleUser,
-  File,
-  FileArchive,
-  FileBadge,
   LogIn,
-  Settings,
-  ShoppingBag,
-  ShoppingCart,
   UserPlus,
 } from "lucide-react";
 import { useRouter } from "next/navigation";

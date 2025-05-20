@@ -57,8 +57,12 @@ export default function Home() {
               opts={{
                 align: "center",
                 loop: true,
+                
+           
+             
               }}
               className="w-full"
+              
             >
               <CarouselContent className="-ml-4">
                 {features.map((feature, index) => (

@@ -2,7 +2,7 @@
  export const Paycomponents: { title: string; href: string; description: string }[] = [
   {
     title: "Pagos",
-    href: "/",
+    href: "/pays",
     description: "Ver pagos, registrar y administrar pagos de clientes.",
   },
   {
